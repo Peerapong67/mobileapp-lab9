@@ -1,4 +1,5 @@
-# SkyCast - Weather App (Lab 9)
+# พีรพงศ์ ปัญญาสัน 67543210042-7
+# Weather App (Lab 9)
 
 แอปพลิเคชันรายงานสภาพอากาศที่พัฒนาด้วย Flutter โดยดึงข้อมูลผ่าน Open-Meteo API
 
